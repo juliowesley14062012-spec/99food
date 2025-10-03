@@ -5,35 +5,35 @@
       "id": "330ml",
       "name": "330ml",
       "volume": "330ml",
-      "price": 13.00,
+      "price": 13.99,
       "description": "Pequeno no tamanho, gigante no sabor! Ideal pra matar aquela vontade de um jeitinho leve e delicioso."
     },
     {
       "id": "440ml",
       "name": "440ml",
       "volume": "440ml",
-      "price": 15.00,
+      "price": 16.99,
       "description": "O equilíbrio perfeito. Nem muito, nem pouco. Só o suficiente pra montar seu copo com tudo que importa!"
     },
     {
       "id": "550ml",
       "name": "550ml",
       "volume": "550ml",
-      "price": 17.00,
+      "price": 19.99,
       "description": "Espaço ideal pra soltar a criatividade! Espaço de sobra pra misturar açaí, frutas, guloseimas."
     },
     {
       "id": "770ml",
       "name": "770ml",
       "volume": "770ml",
-      "price": 20.00,
+      "price": 22.99,
       "description": "Pra quem quer caprichar sem dó! Aqui cabe sua criatividade com folga. É quase um banquete gelado!"
     },
     {
       "id": "1000ml",
       "name": "Pote 1 Litro",
       "volume": "1000ml",
-      "price": 26.00,
+      "price": 28.99,
       "description": "Aqui cabe tudo que a sua fome mandar! 1 litro inteiro pra criar sua obra-prima gelada.",
       "highlight": true
     }
@@ -63,9 +63,9 @@
       "maxSelections": 1,
       "hasExtraPrice": true,
       "items": [
-        { "id": "beijos-fini", "name": "Calda Beijos Fini", "price": 1.00 },
-        { "id": "dentaduras-fini", "name": "Calda Dentaduras Fini", "price": 1.00 },
-        { "id": "bananas-fini", "name": "Calda Bananas Fini", "price": 1.00 }
+        { "id": "beijos-fini", "name": "Calda Beijos Fini", "price": 1.50 },
+        { "id": "dentaduras-fini", "name": "Calda Dentaduras Fini", "price": 1.50 },
+        { "id": "bananas-fini", "name": "Calda Bananas Fini", "price": 1.50 }
       ]
     },
     {
@@ -74,10 +74,10 @@
       "maxSelections": 4,
       "hasExtraPrice": true,
       "items": [
-        { "id": "banana", "name": "Banana", "price": 2.00 },
-        { "id": "manga", "name": "Manga", "price": 2.00 },
-        { "id": "uva", "name": "Uva", "price": 2.00 },
-        { "id": "morango", "name": "Morango", "price": 2.00 }
+        { "id": "banana", "name": "Banana", "price": 2.50 },
+        { "id": "manga", "name": "Manga", "price": 2.50 },
+        { "id": "uva", "name": "Uva", "price": 2.50 },
+        { "id": "morango", "name": "Morango", "price": 2.50 }
       ]
     },
     {
@@ -121,11 +121,11 @@
       "maxSelections": 4,
       "hasExtraPrice": true,
       "items": [
-        { "id": "negresco", "name": "Negresco", "price": 2.00 },
-        { "id": "disquete", "name": "Disquete", "price": 2.00 },
-        { "id": "ovomaltine-extra", "name": "Ovomaltine", "price": 2.00 },
-        { "id": "jujuba", "name": "Jujuba", "price": 1.00 },
-        { "id": "biscoito", "name": "Biscoito", "price": 0.50 }
+        { "id": "negresco", "name": "Negresco", "price": 3.00 },
+        { "id": "disquete", "name": "Disquete", "price": 2.50 },
+        { "id": "ovomaltine-extra", "name": "Ovomaltine", "price": 3.00 },
+        { "id": "jujuba", "name": "Jujuba", "price": 1.50 },
+        { "id": "biscoito", "name": "Biscoito", "price": 0.70 }
       ]
     },
     {
@@ -145,14 +145,14 @@
       "maxSelections": 10,
       "hasExtraPrice": true,
       "items": [
-        { "id": "brownie", "name": "Brownie Artesanal", "price": 4.00 },
-        { "id": "creme-avela", "name": "Creme de Avelã com Chocolate", "price": 4.00 },
-        { "id": "creme-ninho", "name": "Creme de Ninho Premium", "price": 4.00 },
-        { "id": "creme-morango", "name": "Creme de Morango Premium", "price": 4.00 },
-        { "id": "creme-ouro-branco", "name": "Creme de Ouro Branco", "price": 4.00 },
-        { "id": "mini-oreo", "name": "Mini Óreo Crocante", "price": 4.00 },
-        { "id": "ouro-branco", "name": "Ouro Branco", "price": 4.00 },
-        { "id": "sonho-valsa", "name": "Sonho de Valsa", "price": 4.00 }
+        { "id": "brownie", "name": "Brownie Artesanal", "price": 5.00 },
+        { "id": "creme-avela", "name": "Creme de Avelã com Chocolate", "price": 5.00 },
+        { "id": "creme-ninho", "name": "Creme de Ninho Premium", "price": 5.00 },
+        { "id": "creme-morango", "name": "Creme de Morango Premium", "price": 5.00 },
+        { "id": "creme-ouro-branco", "name": "Creme de Ouro Branco", "price": 5.00 },
+        { "id": "mini-oreo", "name": "Mini Óreo Crocante", "price": 5.00 },
+        { "id": "ouro-branco", "name": "Ouro Branco", "price": 5.00 },
+        { "id": "sonho-valsa", "name": "Sonho de Valsa", "price": 5.00 }
       ]
     }
   ]
