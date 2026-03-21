@@ -86,13 +86,13 @@
       "maxSelections": 4,
       "required": true,
       "items": [
-        { "id": "acai-banana", "name": "Açaí de Banana" },
+        { "id": "acainatural", "name": "Açaí Natural" },
+        { "id": "acai-morango", "name": "Açaí de Morango" },
+        { "id": "acai-maracuja", "name": "Açaí de Maracujá" },
         { "id": "sorvete-oreo", "name": "Sorvete de Óreo" },
-        { "id": "sorvete-mousse", "name": "Sorvete de Sensação" },
-        { "id": "sorvete-banana", "name": "Sorvete de Banana com Castanhas" },
-        { "id": "sorvete-flocos", "name": "Sorvete de Flocos" },
-        { "id": "sorvete-prestigio", "name": "Sorvete de Prestígio" },
-        { "id": "sorvete-passas", "name": "Sorvete de Passas ao Rum" }
+        { "id": "sorvete-churros", "name": "Sorvete de Churros" },
+        { "id": "sorvete-ninho", "name": "Sorvete de Ninho Trufado" },
+        { "id": "sorvete-prestigio", "name": "Sorvete de Prestígio" }
       ]
     },
     {
@@ -107,6 +107,7 @@
         { "id": "granulado", "name": "Granulado" },
         { "id": "leite-ninho", "name": "Leite Ninho" },
         { "id": "pacoca", "name": "Paçoca" },
+        { "id": "cereal", "name": "Cereal Colorido" },
         { "id": "sucrilhos", "name": "Sucrilhos" }
       ]
     },
@@ -120,6 +121,7 @@
         { "id": "disquete", "name": "Disquete", "price": 2.50 },
         { "id": "ovomaltine-extra", "name": "Ovomaltine", "price": 3.00 },
         { "id": "jujuba", "name": "Jujuba", "price": 1.50 },
+        { "id": "gomas", "name": "Jujuba (gomas de minhoca)", "price": 1.50 },
         { "id": "biscoito", "name": "Biscoito", "price": 0.70 }
       ]
     },
