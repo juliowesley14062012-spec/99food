@@ -86,13 +86,20 @@
       "maxSelections": 4,
       "required": true,
       "items": [
-        { "id": "acainatural", "name": "Açaí Natural" },
-        { "id": "acai-morango", "name": "Açaí de Morango" },
-        { "id": "acai-maracuja", "name": "Açaí de Maracujá" },
-        { "id": "sorvete-oreo", "name": "Sorvete de Óreo" },
-        { "id": "sorvete-churros", "name": "Sorvete de Churros" },
-        { "id": "sorvete-ninho", "name": "Sorvete de Ninho Trufado" },
-        { "id": "sorvete-prestigio", "name": "Sorvete de Prestígio" }
+        { "id": "acai-banana", "name": "Açaí de Banana" },
+        { "id": "acai-natural", "name": "Açaí Natural" },
+        { "id": "passas", "name": "Sorvete de Passas ao Rum" },
+        { "id": "sensacao", "name": "Sorvete de Sensação" },
+        { "id": "menta", "name": "Sorvete de Chocomenta" },
+        { "id": "nutella", "name": "Sorvete de Nutella" },
+        { "id": "frutas", "name": "Sorvete de frutas vermelhas" },
+        { "id": "churros", "name": "Sorvete de Churros" },
+        { "id": "prestigio", "name": "Sorvete de Prestígio" },
+        { "id": "oreo", "name": "Sorvete de Óreo" },
+        { "id": "banana", "name": "Sorvete de Banana com castanhas" },
+        { "id": "maracuja", "name": "Sorvete de Mousse de Maracujá" },
+        { "id": "pave", "name": "Sorvete de Pavê" },
+        { "id": "ninho", "name": "Sorvete de Ninho Trufado" }
       ]
     },
     {
