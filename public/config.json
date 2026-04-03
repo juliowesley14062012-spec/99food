@@ -36,6 +36,14 @@
       "price": 32.99,
       "description": "Aqui cabe tudo que a sua fome mandar! 1 litro inteiro pra criar sua obra-prima gelada.",
       "highlight": true
+    },
+    {
+      "id": "1500ml",
+      "name": "Marmita com ovo de Páscoa",
+      "volume": "1500ml",
+      "price": 32.99,
+      "description": "Aqui cabe tudo que a sua fome mandar! 1 litro inteiro pra criar sua obra-prima gelada.",
+      "highlight": true
     }
   ],
   "categories": [
